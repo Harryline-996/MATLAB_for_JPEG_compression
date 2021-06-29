@@ -1,2 +1,2 @@
-# MATLAB_for_JPEG_compression
-ZJU 2021年春学期多媒体技术课程大作业，用MATLAB实现标准JPEG图像压缩流程
+- report：包含本次实验的实验报告
+- src：包含本次实验的MATLAB源代码（.m）
